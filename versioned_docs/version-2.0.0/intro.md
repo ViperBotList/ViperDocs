@@ -8,7 +8,7 @@ Let's get started with the Viper API.
 
 ## Getting Started
 
-Get started by either installing our NPM module or by fetching the website with `https://api.viperbotlits.com/`.
+Get started by either installing our NPM module or by fetching the website with `https://api.viperbotlist.com/`.
 
 ### What you'll need
 
