@@ -17,10 +17,10 @@ Get started by either installing our NPM module or by fetching the website with 
 
 ## Fetching website
 
-To get started with the website fetching. Please start [here.](Test)
+To get started with the website fetching. Please start [here.](http://localhost:3000/docs/next/category/website-fetching)
 
 
 ## NPM Module
 
-To get started with the NPM module. Please start [here.](Test)
+To get started with the NPM module. Please start [here.](https://docs.viperbotlist.com/docs/category/npm-modules)
 
