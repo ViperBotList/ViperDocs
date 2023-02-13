@@ -80,9 +80,9 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-          // {
-          //   type: 'docsVersionDropdown',
-          // },
+          {
+            type: 'docsVersionDropdown',
+          },
         ],
       },
       footer: {

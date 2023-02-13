@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Website-Fetching/bot",
+  "id": "version-2.0.0/Website-Fetching/bot",
+  "title": "Get Bot Endpoint",
+  "description": "BaseURL//api.viperbotlist.com/bots/:botID",
+  "source": "@site/versioned_docs/version-2.0.0/Website-Fetching/bot.md",
+  "sourceDirName": "Website-Fetching",
+  "slug": "/Website-Fetching/bot",
+  "permalink": "/docs/Website-Fetching/bot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-2.0.0/Website-Fetching/bot.md",
+  "tags": [],
+  "version": "2.0.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Post Vote Endpoint",
+    "permalink": "/docs/Website-Fetching/Vote"
+  },
+  "next": {
+    "title": "NPM Modules",
+    "permalink": "/docs/category/npm-modules"
+  }
+}

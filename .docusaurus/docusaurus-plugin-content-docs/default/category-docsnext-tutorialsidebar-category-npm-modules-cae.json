@@ -1,0 +1,16 @@
+{
+  "title": "NPM Modules",
+  "description": "Viper API NPM Modules",
+  "slug": "/category/npm-modules",
+  "permalink": "/docs/next/category/npm-modules",
+  "navigation": {
+    "previous": {
+      "title": "Get Bot Endpoint",
+      "permalink": "/docs/next/Website-Fetching/bot"
+    },
+    "next": {
+      "title": "Viper Bot List (Node-SDK)",
+      "permalink": "/docs/next/NPM Modules/viper.js"
+    }
+  }
+}

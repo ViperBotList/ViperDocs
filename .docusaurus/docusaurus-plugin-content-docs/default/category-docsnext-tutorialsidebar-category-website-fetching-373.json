@@ -1,0 +1,16 @@
+{
+  "title": "Website Fetching",
+  "description": "Viper API Website Fetching",
+  "slug": "/category/website-fetching",
+  "permalink": "/docs/next/category/website-fetching",
+  "navigation": {
+    "previous": {
+      "title": "Intro",
+      "permalink": "/docs/next/intro"
+    },
+    "next": {
+      "title": "Post Vote Endpoint",
+      "permalink": "/docs/next/Website-Fetching/Vote"
+    }
+  }
+}
